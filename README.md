@@ -31,7 +31,7 @@ Questions? → [joaohenrique@jhbdev.com.br](mailto:joaohenrique@jhbdev.com.br)
 [![Architecture Diagram](https://drive.google.com/uc?export=view&id=1lpHn0sdCWlOImzG5AaS5rhWcuYaO84-M)](https://drive.google.com/uc?export=view&id=1lpHn0sdCWlOImzG5AaS5rhWcuYaO84-M)
 ---
 
-## 🚀 Why Celesta Royalties Visualization?
+## 🚀 Why?
 
 Celesta Royalties Visualization + AI is an MVP built for Celesta Mining to provide a secure, flexible dashboard and an AI-powered assistant for real-time royalty oversight.
 It turns complex data—like invoices, shareholder positions, and FX rates—into actionable insights, with natural-language Q&A and voice interaction.
