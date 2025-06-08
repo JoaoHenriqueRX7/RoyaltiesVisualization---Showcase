@@ -4,7 +4,7 @@
   <strong>Dashboard & AI-powered API for royalty tracking at Celesta Mining (Vila&nbsp;Velha, Brazil)</strong>
 </p>
 
-> ⚠️ **Quick heads-up:** this repo contains an MVP/POC. Focus was on core functionality and AI integration; UI polish comes later. For other design work, check my <a href="https://yourportfolio.com/designs">portfolio</a>.
+> ⚠️ **Quick heads-up:** this repo contains only the first phase of the project that is Royalties Visualizatio, the complete project will have also ore extracion visualization. Focus was on core functionality and AI integration.
 
 ---
 
