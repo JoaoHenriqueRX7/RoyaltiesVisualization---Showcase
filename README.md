@@ -33,8 +33,10 @@ Questions? → [joaohenrique@jhbdev.com.br](mailto:joaohenrique@jhbdev.com.br)
 
 ## 🚀 Why Celesta Royalties Visualization?
 
-### 🤖 **AI-Powered Business Insights**  
-A built-in AI assistant (RAG-powered) enables natural language questions about royalties, invoices, shareholder balances, and financial trends. The assistant is available both within the dashboard and via the API — giving decision-makers fast, intuitive access to key data.
+Celesta Royalties Visualization + AI is an MVP built for Celesta Mining to provide a secure, flexible dashboard and an AI-powered assistant for real-time royalty oversight.
+It turns complex data—like invoices, shareholder positions, and FX rates—into actionable insights, with natural-language Q&A and voice interaction.
+The architecture is modular and future-proof, with FastAPI + RAG enabling chat, document parsing, and seamless scaling—finally moving the operation beyond spreadsheets.
+Looking ahead, the same stack will power full ore-pipeline management and operational visualization, giving Celesta one clear view across the entire mining lifecycle.
 
 ### 💰 **Real-time financial governance**  
 Executives can monitor royalties owed, paid, taxes, and FX rates in real time — no spreadsheets required.
