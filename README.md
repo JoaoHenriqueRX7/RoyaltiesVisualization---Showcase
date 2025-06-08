@@ -98,11 +98,11 @@ Up-to-date USD ↔ BRL exchange rates via external API — seamlessly integrated
 
 ## 📌 Roadmap
 
-- Final UI/UX redesign (dark mode + responsive)  
+- ore pipeline management and visualization 
 - Bulk document uploads (CSV/PDF)  
 - Usage-based billing & rate limiting  
-- SAP & Power BI integrations  
-- White-label mobile app (with AI voice assistant)
+- SAP integrations  
+- White-label mobile app
 
 ---
 
