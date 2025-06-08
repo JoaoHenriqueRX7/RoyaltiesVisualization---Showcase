@@ -28,7 +28,7 @@ Questions? → [joaohenrique@jhbdev.com.br](mailto:joaohenrique@jhbdev.com.br)
 
 ## 📸 High-Level Architecture  
 
-[![Architecture Diagram]([https://via.placeholder.com/600x300)](https://via.placeholder.com/1200x600](https://drive.google.com/uc?export=view&id=1pPPMhQAQMNNI_a55dDZvKNXDd89C5q83)](https://drive.google.com/uc?export=view&id=1pPPMhQAQMNNI_a55dDZvKNXDd89C5q83))
+[![Architecture Diagram](https://drive.google.com/uc?export=view&id=1pPPMhQAQMNNI_a55dDZvKNXDd89C5q83)](https://drive.google.com/uc?export=view&id=1pPPMhQAQMNNI_a55dDZvKNXDd89C5q83)
 
 ---
 
