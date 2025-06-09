@@ -1,7 +1,7 @@
 <h1 align="center">📊 Celesta Royalties Visualization + AI Insights</h1>
 
 <p align="center">
-  <strong>Dashboard & AI-powered API for royalty tracking at Celesta Mining (Vila&nbsp;Velha, Brazil)</strong>
+  <strong>Dashboard & AI-powered API for royalty tracking at Celesta Mining (Pará, Brazil)</strong>
 </p>
 
 > ⚠️ **Quick heads-up:** this repo contains only the first phase of the project that is Royalties Visualizatio, the complete project will have also ore extracion visualization. Focus was on core functionality and AI integration.
@@ -10,7 +10,7 @@
 
 🛑 **Important note:**  
 This code was developed exclusively for Celesta. It is shared here as a showcase only (non-commercial). Source code and architecture are under NDA.  
-Questions? → [joaohenrique@jhbdev.com.br](mailto:joaohenrique@jhbdev.com.br)
+Questions? → [email me](mailto:joaohenrique@jhbdev.com.br) [email celesta](mailto:gustavo_damm15@celestamineracao.com.br)
 
 ---
 
