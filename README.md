@@ -13,7 +13,7 @@ This code was developed exclusively for Celesta. It is shared here as a showcase
 Questions? → [my E-mail](mailto:joaohenrique@jhbdev.com.br), [Celesta`s E-mail](mailto:gustavo_damm15@celestamineracao.com.br)
 
 ---
-
+> ⚠️ **Quick note:** all data in the demonstration is fake, for demonstrating only.
 | page | Description |
 |------------|-------------|
 | [![User - Chat Voice](https://drive.google.com/uc?export=view&id=1IqOrGcr3TEe5IPa5ZDtOiN63VH_l55Pv)](https://drive.google.com/uc?export=view&id=1IqOrGcr3TEe5IPa5ZDtOiN63VH_l55Pv) | Dashboard view: general visualization |
