@@ -16,9 +16,9 @@ Questions? → [joaohenrique@jhbdev.com.br](mailto:joaohenrique@jhbdev.com.br)
 
 | page | Description |
 |------------|-------------|
-| [![User - Chat Voice](https://drive.google.com/uc?export=view&id=1IqOrGcr3TEe5IPa5ZDtOiN63VH_l55Pv)](https://drive.google.com/uc?export=view&id=1IqOrGcr3TEe5IPa5ZDtOiN63VH_l55Pv) | Dashboard: conversation with agent (voice enabled via ElevenLabs) |
-| [![User - Chat Text](https://drive.google.com/uc?export=view&id=1fia6mQ195g1jyCGwVQ1GRsKFhwByNGKI)](https://drive.google.com/uc?export=view&id=1fia6mQ195g1jyCGwVQ1GRsKFhwByNGKI) | User chat interface: conversation with agent (text) |
-| [![Admin - Create Agent](https://drive.google.com/uc?export=view&id=1l1ixHr8fz6upJyyQZpHPrZffIbSHUBaY)](https://drive.google.com/uc?export=view&id=1l1ixHr8fz6upJyyQZpHPrZffIbSHUBaY) | Admin panel: creating a new agent for a tenant |
+| [![User - Chat Voice](https://drive.google.com/uc?export=view&id=1IqOrGcr3TEe5IPa5ZDtOiN63VH_l55Pv)](https://drive.google.com/uc?export=view&id=1IqOrGcr3TEe5IPa5ZDtOiN63VH_l55Pv) | Dashboard view: general visualization |
+| [![User - Chat Text](https://drive.google.com/uc?export=view&id=1fia6mQ195g1jyCGwVQ1GRsKFhwByNGKI)](https://drive.google.com/uc?export=view&id=1fia6mQ195g1jyCGwVQ1GRsKFhwByNGKI) | Shareholder view |
+| [![Admin - Create Agent](https://drive.google.com/uc?export=view&id=1l1ixHr8fz6upJyyQZpHPrZffIbSHUBaY)](https://drive.google.com/uc?export=view&id=1l1ixHr8fz6upJyyQZpHPrZffIbSHUBaY) | Ai assistant |
 
 https://drive.google.com/file/d/1IqOrGcr3TEe5IPa5ZDtOiN63VH_l55Pv/view?usp=share_link
 
