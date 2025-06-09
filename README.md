@@ -43,9 +43,6 @@ Executives can monitor royalties owed, paid, taxes, and FX rates in real time �
 ### 🎛 **Interactive dashboards & advanced filters**  
 Dynamic filtering by date, shareholder, currency, invoice — lightning fast.
 
-### 🔐 **Enterprise-grade security**  
-JWT-based authentication, RBAC, encrypted data at rest, and multi-tenant readiness.
-
 ### 🌍 **Automatic currency conversion**  
 Up-to-date USD ↔ BRL exchange rates via external API — seamlessly integrated.
 
