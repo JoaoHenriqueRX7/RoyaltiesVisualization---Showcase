@@ -13,13 +13,14 @@ This code was developed exclusively for Celesta. It is shared here as a showcase
 Questions? → [joaohenrique@jhbdev.com.br](mailto:joaohenrique@jhbdev.com.br)
 
 ---
-
+[![User - Chat Text](https://drive.google.com/uc?export=view&id=1YJV8ZBjNma1OAktYyjvI0qIjd8fGJDLB)](https://drive.google.com/uc?export=view&id=1YJV8ZBjNma1OAktYyjvI0qIjd8fGJDLB)
+https://drive.google.com/file/d/1l1ixHr8fz6upJyyQZpHPrZffIbSHUBaY/view?usp=share_link
 | Page | Description |
 |------|-------------|
-| ![Dashboard](https://via.placeholder.com/150) | Real-time overview of royalties owed/paid |
-| ![Invoice CRUD](https://via.placeholder.com/150) | Full invoice management + PDF export |
-| ![Shareholder Detail](https://via.placeholder.com/150) | Shareholder details & participation shares |
-| ![AI Chat](https://via.placeholder.com/150) | AI-powered assistant for natural language queries |
+| ![Dashboard](https://drive.google.com/uc?export=view&id=1YJV8ZBjNma1OAktYyjvI0qIjd8fGJDLB)](https://drive.google.com/uc?export=view&id=1YJV8ZBjNma1OAktYyjvI0qIjd8fGJDLB) | Real-time overview of royalties owed/paid |
+| ![Invoice CRUD](https://drive.google.com/uc?export=view&id=1YJV8ZBjNma1OAktYyjvI0qIjd8fGJDLB)](https://drive.google.com/uc?export=view&id=1YJV8ZBjNma1OAktYyjvI0qIjd8fGJDLB) | Full invoice management + PDF export |
+| ![Shareholder Detail](https://drive.google.com/uc?export=view&id=1YJV8ZBjNma1OAktYyjvI0qIjd8fGJDLB)](https://drive.google.com/uc?export=view&id=1YJV8ZBjNma1OAktYyjvI0qIjd8fGJDLB) | Shareholder details & participation shares |
+| ![AI Chat](https://drive.google.com/uc?export=view&id=1YJV8ZBjNma1OAktYyjvI0qIjd8fGJDLB)](https://drive.google.com/uc?export=view&id=view&id=1YJV8ZBjNma1OAktYyjvI0qIjd8fGJDLB) | AI-powered assistant for natural language queries |
 
 ## Interface demonstration  
 👉 **[Watch the demo](https://youtu.be/your-demo-link)**
