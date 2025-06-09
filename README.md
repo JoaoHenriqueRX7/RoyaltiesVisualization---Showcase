@@ -17,9 +17,11 @@ Questions? → [joaohenrique@jhbdev.com.br](mailto:joaohenrique@jhbdev.com.br)
 | page | Description |
 |------------|-------------|
 | [![User - Chat Text](https://drive.google.com/uc?export=view&id=1fia6mQ195g1jyCGwVQ1GRsKFhwByNGKI)](https://drive.google.com/uc?export=view&id=1fia6mQ195g1jyCGwVQ1GRsKFhwByNGKI) | User chat interface: conversation with agent (text) |
-| [![User - Chat Voice](https://drive.google.com/uc?export=view&id=1EOjNcHOmwXiYjPz_gXJXcvZeN0OfSXBg)](https://drive.google.com/uc?export=view&id=1EOjNcHOmwXiYjPz_gXJXcvZeN0OfSXBg) | User chat interface: conversation with agent (voice enabled via ElevenLabs) |
+| [![User - Chat Voice](https://drive.google.com/uc?export=view&id=1IqOrGcr3TEe5IPa5ZDtOiN63VH_l55Pv)](https://drive.google.com/uc?export=view&id=1IqOrGcr3TEe5IPa5ZDtOiN63VH_l55Pv) | User chat interface: conversation with agent (voice enabled via ElevenLabs) |
 | [![Admin - Edit Agent](https://drive.google.com/uc?export=view&id=1shvEAxX5Kun661_xIsmujEUOK-y0pIdV)](https://drive.google.com/uc?export=view&id=1shvEAxX5Kun661_xIsmujEUOK-y0pIdV) | Admin panel: editing an existing agent |
 | [![Admin - Create Agent](https://drive.google.com/uc?export=view&id=1l1ixHr8fz6upJyyQZpHPrZffIbSHUBaY)](https://drive.google.com/uc?export=view&id=1l1ixHr8fz6upJyyQZpHPrZffIbSHUBaY) | Admin panel: creating a new agent for a tenant |
+
+https://drive.google.com/file/d/1IqOrGcr3TEe5IPa5ZDtOiN63VH_l55Pv/view?usp=share_link
 
 ## Interface demonstration  
 👉 **[Watch the demo](https://youtu.be/your-demo-link)**
