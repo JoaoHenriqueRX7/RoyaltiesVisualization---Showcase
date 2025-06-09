@@ -10,7 +10,7 @@
 
 🛑 **Important note:**  
 This code was developed exclusively for Celesta. It is shared here as a showcase only (non-commercial). Source code and architecture are under NDA.  
-Questions? → [email me](mailto:joaohenrique@jhbdev.com.br) [email celesta](mailto:gustavo_damm15@celestamineracao.com.br)
+Questions? → [my E-mail](mailto:joaohenrique@jhbdev.com.br), [Celesta`s E-mail](mailto:gustavo_damm15@celestamineracao.com.br)
 
 ---
 
